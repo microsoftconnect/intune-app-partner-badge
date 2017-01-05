@@ -1,4 +1,8 @@
-#Intune App Badging System
+# Intune App Badging System
+
+Version [1.0](https://github.com/msintuneappsdk/intune-app-partner-badge/releases) 
+
+See [release notes](https://github.com/msintuneappsdk/intune-app-partner-badge/releases) for more information.
 
 This has everything you need to badge your partner app's icon with the Intune logo. This is an _optional_ way to style the icon of an app that has integrated the Intune App SDK and enables Intune mobile application management (MAM).
 
